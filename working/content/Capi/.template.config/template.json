@@ -9,7 +9,7 @@
   ],
   "identity": "ivbshv.cleanarchitecture.template",
   "name": "Clean Architecture Project by Igor Bushuev",
-  "description": "Микросервис с Clean Architecture. Author: Igor Bushuev (tg : @ivbshv, GitHub: @ivbshv)",
+  "description": "Microservice Clean Architecture. Author: Igor Bushuev (tg : @ivbshv, GitHub: @ivbshv)",
   "shortName": "Capi",
   "sourceName": "Capi",
   "preferNameDirectory": true,
