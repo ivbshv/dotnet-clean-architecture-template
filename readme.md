@@ -18,7 +18,7 @@ MyProject/
 ├── MyProject.Domain/ # Доменные модели
 └── MyProject.Infrastructure/ # Данные и внешние сервисы
 
-text
+
 
 ---
 
