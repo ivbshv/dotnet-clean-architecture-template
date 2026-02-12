@@ -5,7 +5,7 @@
 		<PackageId>ivbshv.cleanarchitecture.template</PackageId>
 		<Title>Clean Architecture Project Template</Title>
 		<Authors>Igor Bushuev</Authors>
-		<Description>Clean Architecture template for microservices with API, Application, Core and Infrastructure layers</Description>
+		<Description>Clean Architecture template for microservices with API, Application, Core and Infrastructure layers.</Description>
 		<PackageTags>dotnet-new;templates;cleanarchitecture;webapi;microservice</PackageTags>
 		<TargetFramework>net9.0</TargetFramework>
 		<IncludeContentInPack>true</IncludeContentInPack>
