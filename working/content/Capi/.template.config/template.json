@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Igor Bushuev",
+  "classifications": [
+    "Web",
+    "Clean Architecture Project",
+    "API",
+    "Microservice"
+  ],
+  "identity": "ivbshv.cleanarchitecture.template",
+  "name": "Clean Architecture Project by Igor Bushuev",
+  "description": "Микросервис с Clean Architecture. Author: Igor Bushuev (tg : @ivbshv, GitHub: @ivbshv)",
+  "shortName": "Capi",
+  "sourceName": "Capi",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
