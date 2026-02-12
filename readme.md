@@ -41,7 +41,7 @@ dotnet nuget add source https://nuget.pkg.github.com/<GITHUB_USERNAME>/index.jso
 dotnet nuget add source https://nuget.pkg.github.com/ivbshv/index.json \
   --name github-ivbshv \
   --username ivbshv \
-  --password PCH2Y60YqR7qg8lfyZcjCP3BQ4yr \
+  --password <токен> \
   --store-password-in-clear-text
 ```
 
