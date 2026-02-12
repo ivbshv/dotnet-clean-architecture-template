@@ -27,8 +27,7 @@ jobs:
     - name: Pack
       run: dotnet pack --configuration Release # Сборка NuGet-пакет в Release-режиме
 
-    # Указание источника пакетов GitHub.
-    
+    # Указание источника пакетов GitHub 
     # и публикация собранного NuGet-пакета
     - name: Publish to GitHub Packages
       run: |
